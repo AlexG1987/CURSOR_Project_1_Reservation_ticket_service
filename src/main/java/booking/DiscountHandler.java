@@ -1,0 +1,4 @@
+package booking;
+
+class DiscountHandler {
+}
